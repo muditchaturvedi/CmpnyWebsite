@@ -39,6 +39,7 @@ const app =props=>
         <Person name={personstate.persons[2].name} age={personstate.persons[2].age}/>
         <Person name={personstate.persons[3].name} age={personstate.persons[3].age} /> 
         <Person name={personstate.persons[4].name} age={personstate.persons[4].age}/>
+        <p>Hello Changes...</p>
       </div>
 
     );
